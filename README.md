@@ -1,8 +1,10 @@
 **﻿Malicious & Benign Websites - Machine Learning Research Report**
 
-This is my Phase 3 Project during my time at Flatiron Schools Data Science bootcamp. This is a research report consisting of an exploratory data analysis (EDA) and inferential analysis using Python, analyzing a data set of websites that are benign or malicious, with numerous different features identifying DNS, TCP, IP packets sent from a hosted honeypot from numerous servers across the world which can be found in notebook #1. The second notebook I worked on goes into a comprehensive classification machine learning analysis, where I trained models to predict whether or not a website is malicious or benign. The model I trained has a 98.4% accuracy when predicting for malicious or benign websites.
+This is my Phase 3 project during my time at Flatiron School. It focuses on a detailed exploratory data analysis (EDA) and inferential analysis using Python to examine a dataset of websites labeled as benign or malicious. The dataset includes various features such as DNS, TCP, and IP packets captured from a honeypot that interacted with multiple servers worldwide to collect data.
 
-This is a very practical real world model that can be implemented or deployed by any individual or any organization. The ever existing and evolving threat of malicious activity over the world wide web is a constant threat everyday and it is imperative to protect yourself or your organization from spyware, malware, ransomeware, trojan horses, and much much more that can be contracted from visiting a malicious website.
+In the first notebook, I performed the EDA, which can be found in Notebook #1. The second notebook delves into a comprehensive machine learning classification analysis where I trained models to predict whether a website is malicious or benign. The final model achieved a 98.4% accuracy.
+
+This project demonstrates a practical, real-world application that can be deployed by individuals or organizations to safeguard against the ever-evolving threat of malicious web activity, such as spyware, malware, ransomware, and more.
 
 - **[Documents](./documents):** includes PDF documents of the inferential EDA and slides used in class presentation.
 
