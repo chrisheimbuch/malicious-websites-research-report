@@ -6,8 +6,8 @@ In the first notebook, I performed the EDA, which can be found in notebook #1 (e
 
 This project demonstrates a practical, real-world application that can be deployed by individuals or organizations to safeguard against the ever-evolving threat of malicious web activity, such as spyware, malware, ransomware, and more.
 
-- **[Documents](./documents):** includes PDF documents of the inferential EDA and slides used in class presentation.
+- **[Documents](./documents):** includes PDF documents of the inferential EDA, technical machine learning notebook, and slides used in class presentation.
 
-- **[Source](./source):** includes the notebook #1 inferential eda source code, notebook #2 machine learning source code, and associated files with the project.
+- **[Source](./source):** includes notebook #1 inferential eda source code, notebook #2 machine learning source code, and associated files with the project.
 
 **[Click here for the Dataset](https://www.kaggle.com/datasets/xwolf12/malicious-and-benign-websites/data)**
